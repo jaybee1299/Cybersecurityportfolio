@@ -29,13 +29,10 @@ Nessus allows users to create customized scanning policies tailored to specific 
 ---
 
 ## 📁 Contents
-
-- `nessus-demo-report.pdf` – Example scan report with key findings.
+- `nessus-demo-report.pdf` – https://illinoisstateuniversity-my.sharepoint.com/:p:/r/personal/bafolab_ilstu_edu/_layouts/15/Doc.aspx?sourcedoc=%7B3113A978-D4E2-48A3-9F21-96BD8E238F8D%7D&file=Presentation%201.pptx&action=editnew&mobileredirect=true&wdPreviousSession=50c59fc9-6428-5e0f-4903-8e83fb0d00b0&wdNewAndOpenCt=1745857904816&wdo=4&wdOrigin=wacFileNew&wdTpl=blankNew&wdPreviousCorrelation=551ee20c-6822-48a1-901c-0bf1b1ce490c&wdnd=1
 - `nessus-scan-policy.json` – Sample scan policy configuration.
 - `nessus_notes.md` – Notes from my walkthrough of the Nessus interface and features.
-- `nessus_demo.mp4` – (Optional) Video demo of me performing a scan.
-
----
+- `nessus_demo.mp4` – Video demo of me performing a scan
 
 ## 📚 Learning Goals
 
